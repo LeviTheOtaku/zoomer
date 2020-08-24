@@ -1,0 +1,9 @@
+D:\Levi\source\repos\Zoomer\Zoomer\bin\Debug\Zoomer.exe.config
+D:\Levi\source\repos\Zoomer\Zoomer\bin\Debug\Zoomer.exe
+D:\Levi\source\repos\Zoomer\Zoomer\bin\Debug\Zoomer.pdb
+D:\Levi\source\repos\Zoomer\Zoomer\obj\Debug\Zoomer.csprojAssemblyReference.cache
+D:\Levi\source\repos\Zoomer\Zoomer\obj\Debug\Zoomer.Form1.resources
+D:\Levi\source\repos\Zoomer\Zoomer\obj\Debug\Zoomer.Properties.Resources.resources
+D:\Levi\source\repos\Zoomer\Zoomer\obj\Debug\Zoomer.csproj.GenerateResource.cache
+D:\Levi\source\repos\Zoomer\Zoomer\obj\Debug\Zoomer.exe
+D:\Levi\source\repos\Zoomer\Zoomer\obj\Debug\Zoomer.pdb
